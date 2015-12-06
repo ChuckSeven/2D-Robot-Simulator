@@ -7,12 +7,12 @@ A report with further details is provided.
 JTS - Java Topology Suite is used for some calculations (http://www.vividsolutions.com/jts/JTSHome.htm)
 
 #Shortcuts:
--r Place robot
--g Place goal 
--o Place obstacle
--m Place moving obstacle 
--s Start/Stop robot
--d Reset robot to starting position 
--c Clear
+- r Place robot
+- g Place goal 
+- o Place obstacle
+- m Place moving obstacle 
+- s Start/Stop robot
+- d Reset robot to starting position 
+- c Clear
 
 ![Example](/example.png)
