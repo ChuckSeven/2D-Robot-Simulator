@@ -1,0 +1,28 @@
+1444833417108	Copy compilation unit
+1444833422657	Delete element
+1444833521614	Rename package 'Controller'
+1444833526999	Rename package 'Model'
+1444833531090	Rename package 'View'
+1444833868823	Rename local variable 'component'
+1444834642894	Encapsulate field 'robot'
+1444838029679	Rename type 'Math'
+1444838148788	Rename local variable 'a'
+1444839437889	Rename method 'getCenter'
+1444839499419	Rename method 'getLocation'
+1444839704608	Rename method 'geetCoordinate'
+1444839748777	Rename method 'getNewCoord'
+1444841945341	Encapsulate field 'goal'
+1444842672424	Rename method 'initializeListeners'
+1444849291328	Rename local variable 'angle2'
+1444860588971	Rename local variable 'l'
+1444861249127	Move compilation unit
+1444861440462	Rename type 'BotBehavior'
+1444923463563	Rename field 'd'
+1444952797778	Rename method 'calculateSensorPositions'
+1444953949129	Rename method 'resetSensorPositions'
+1444954478184	Rename field 'SENSOR_SIZE'
+1444956721685	Delete element
+1444958300722	Rename type 'PlaceObstacleTool'
+1444958354173	Rename type 'PlaceGoalTool'
+1444958364985	Rename type 'PlaceRobotTool'
+1444958476651	Delete element

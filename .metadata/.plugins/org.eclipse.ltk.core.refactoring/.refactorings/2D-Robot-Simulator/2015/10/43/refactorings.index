@@ -1,0 +1,53 @@
+1445269232786	Rename field 'TOLERANCE'
+1445269246512	Rename field 'SMOOTH'
+1445269269368	Rename field 'AIM_TOLERANCE'
+1445269356890	Rename type 'BotBehaviorImpl'
+1445269449745	Copy compilation unit
+1445270588532	Rename field 'r'
+1445270662164	Rename field 'SENSOR_COUNT'
+1445270800594	Rename field 'r'
+1445274169854	Rename local variable 'goalVec'
+1445274173321	Rename local variable 'robotVec'
+1445284493330	Rename type 'ObstacleDodgerBot'
+1445420884056	Rename method 'getButton'
+1445427737984	Rename type 'SimpleObstacleDodgerBot'
+1445428093759	Copy compilation unit
+1445430028395	Rename type 'SimpleGoalDrivenBot'
+1445430037690	Rename type 'HeadingBot'
+1445430046514	Rename type 'FreeSpaceBotWithHeadings'
+1445430075410	Rename type 'ObstaclePanicBot'
+1445431757164	Rename local variable 'b'
+1445431762152	Rename type 'BotBehavior'
+1445445713442	Copy compilation unit
+1445445724181	Rename field 'goalBtn'
+1445447217397	Rename method 'stop'
+1445448107767	Rename type 'FreeSpaceBotWithAngle'
+1445448116836	Rename type 'ObstaclePanicBotWithAngle'
+1445448155593	Rename type 'FreeSpaceBotWithSamplePoints'
+1445457202107	Rename local variable 'goalVector'
+1445457322170	Rename local variable 'headingVector'
+1445459194262	Copy compilation unit
+1445784959213	Copy compilation unit
+1445786555443	Copy compilation unit
+1445786577559	Rename field 'startStopButton'
+1445786996357	Rename field 't'
+1445787825324	Rename local variable 'distance'
+1445788257180	Rename field 'ga'
+1445788273334	Rename field 'oa'
+1445793765764	Rename local variable 'ctrlPoint1'
+1445793770278	Rename local variable 'ctrlPoint2'
+1445798520158	Rename field 'restartButton'
+1445798525592	Rename type 'RestartTool'
+1445802712618	Copy compilation unit
+1445802763041	Rename field 'resetButton'
+1445804869382	Rename field 'behavior'
+1445805344827	Rename type 'BotBehaviour'
+1445805717852	Copy compilation unit
+1445806125269	Copy compilation unit
+1445806151755	Rename field 'resetButton'
+1445806782521	Rename method 'save'
+1445812022756	Delete element
+1445813445045	Copy compilation unit
+1445813500662	Rename field 'comboAgents'
+1445814172172	Rename method 'distance'
+1445815806857	Delete element

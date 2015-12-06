@@ -1,0 +1,18 @@
+
+
+import bots.*;
+import controller.SimController;
+
+public class MainClass {
+
+	public static void main(String[] args) {
+		
+//		BotBehaviour behaviour = new A_FreeSpaceBotWithAngle();
+//		BotBehaviour behaviour = new B_ObstaclePanicBotWithAngle();
+		BotBehaviour behaviour = new C_FreeSpaceBotWithSamplePoints();
+//		BotBehaviour behaviour = new D_AvoidObstacleWithSamplePoints();
+		
+		new SimController(behaviour);
+	}
+
+}
